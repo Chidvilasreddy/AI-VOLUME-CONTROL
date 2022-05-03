@@ -11,4 +11,4 @@ pip install mediapipe
 
 pip install opencv2-python
 
-pip install screen_brightness_control
+pip install volume_control
